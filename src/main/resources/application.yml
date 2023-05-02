@@ -43,10 +43,3 @@ kafka:
       creation: account-creation
     transactions:
       completion: transaction-completion
-
-myapp:
-  api:
-    base-url:
-      user-service: http://user-service/api/v1/users/
-      accounts-service: http://account-service/api/v1/accounts/
-      transactions-service: http://transactions-service/api/v1/transactions/
