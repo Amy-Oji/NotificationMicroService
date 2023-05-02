@@ -44,7 +44,6 @@ kafka:
     transactions:
       completion: transaction-completion
 
-
 myapp:
   api:
     base-url:
